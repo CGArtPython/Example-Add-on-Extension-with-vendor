@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "vendor_pkg_test"
+name = "Test Vendor Package"
+version = "0.0.1"
+tagline = "Example extentions that uses a vendored package"
+maintainer = "Community"
+type = "add-on"
+tags = ["Object"]
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT", "SPDX:GPL-2.0-or-later"]
+copyright = ["2024 Community"]
